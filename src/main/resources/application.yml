@@ -1,0 +1,1 @@
+spring:  thymeleaf:    cache: falseserver:  port: 8080  error:    path: /error    logging:  file:    path: D:\\naver_editor\\logs    name: naver_editorimg:  file:    dir: D:\\naver_editor\\img
